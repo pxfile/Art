@@ -1,0 +1,826 @@
+[
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_psw_choice.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/selector_psw_choice.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_button_pay_success_call_btn.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bg_button_pay_success_call_btn.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_button_appointment.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bg_button_appointment.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_img_share.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/selector_img_share.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/umeng_update_button_ok_bg_normal.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/umeng_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/list_divider_horizon.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/list_divider_horizon.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/umeng_update_button_cancel_bg_focused.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/umeng_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_button_submit.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bg_button_submit.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/icon_line_gray.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/icon_line_gray.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_dialog_title.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bg_dialog_title.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/vpi_tab_indicator.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/vpi_tab_indicator.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/btn_gray_shape.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/btn_gray_shape.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_tab_text.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/selector_tab_text.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_button_white.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bg_button_white.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_img_query.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/selector_img_query.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_navigation_footer_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bg_navigation_footer_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/list_divider_order_comment.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/list_divider_order_comment.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_query_price.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bg_query_price.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_backgroud_shape_picture.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/selector_backgroud_shape_picture.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/ratingbar_drawable.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/ratingbar_drawable.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/pay_success_orange.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/pay_success_orange.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_feedback.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/selector_feedback.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_choose_dialog_list.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bg_choose_dialog_list.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_label.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bg_label.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_evaluate.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bg_evaluate.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/list_divider_horizon.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/list_divider_horizon.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/reply_comment_background.9.png",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/reply_comment_background.9.png"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_edit_text.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bg_edit_text.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_have_paid.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/selector_have_paid.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_backgroud_shape.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/selector_backgroud_shape.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_button_balance_recharge.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bg_button_balance_recharge.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_button_appointment.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bg_button_appointment.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_text_color_share_comment.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/selector_text_color_share_comment.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/tb_munion_icon.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/tb_munion_icon.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_tab_text.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/selector_tab_text.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/umeng_update_button_cancel_bg_tap.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/umeng_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/icon_line_limit_gray.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/icon_line_limit_gray.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_user_pay_radio_btn.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/selector_user_pay_radio_btn.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/enroll_enter_button_bg2.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/enroll_enter_button_bg2.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/meet_button_bg.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/meet_button_bg.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bubble_shape.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bubble_shape.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/tb_munion_item_selector.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/tb_munion_item_selector.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_button_pay_success_call_btn.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bg_button_pay_success_call_btn.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_edit_comment.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bg_edit_comment.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_prepare_identify.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/selector_prepare_identify.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/icon_line_vertical_gray.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/icon_line_vertical_gray.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_img_query.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/selector_img_query.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_edit_text.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bg_edit_text.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_button_balance_recharge2.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bg_button_balance_recharge2.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_choose_dialog_title.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bg_choose_dialog_title.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_button_pay_success.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bg_button_pay_success.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_connect_us.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/selector_connect_us.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/enroll_enter_button_bg.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/enroll_enter_button_bg.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_button_white.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bg_button_white.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_button_wx_recharge.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bg_button_wx_recharge.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/icon_line_vertical.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/icon_line_vertical.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/time_range_dialog_bg.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/time_range_dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/enroll_enter_button_bg2.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/enroll_enter_button_bg2.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/umeng_update_button_cancel_bg_selector.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/umeng_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_dialog_title.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bg_dialog_title.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/tb_munion_item_selector.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/tb_munion_item_selector.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/umeng_update_button_cancel_bg_tap.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/umeng_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_button_check_phone.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bg_button_check_phone.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_tab_expert.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/selector_tab_expert.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_button_transparent_black_stroke.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bg_button_transparent_black_stroke.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_choose_dialog_list.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bg_choose_dialog_list.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/icon_line_dotted.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/icon_line_dotted.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_content_corners.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bg_content_corners.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_backgroud_shape_picture.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/selector_backgroud_shape_picture.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_psw_choice.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/selector_psw_choice.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/umeng_update_button_ok_bg_focused.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/umeng_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_button_pay_shape.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/selector_button_pay_shape.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/icon_line_horizon_gray.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/icon_line_horizon_gray.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_tab_user.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/selector_tab_user.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/btn_gray_shape.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/btn_gray_shape.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_button_zhifubao_recharge.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bg_button_zhifubao_recharge.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_tab_info.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/selector_tab_info.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/pay_success_orange.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/pay_success_orange.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_button_wx_recharge.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bg_button_wx_recharge.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_connect_us.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/selector_connect_us.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/list_divider_order_comment.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/list_divider_order_comment.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_button_submit_orange.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bg_button_submit_orange.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_button_transparent_black_stroke.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bg_button_transparent_black_stroke.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/meet_button_bg.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/meet_button_bg.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/umeng_update_button_cancel_bg_normal.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/umeng_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_button_pay_success_btn.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bg_button_pay_success_btn.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_tab_expert.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/selector_tab_expert.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/pay_success_red.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/pay_success_red.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_button_pay_success_btn.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bg_button_pay_success_btn.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/reply_comment_background.9.png",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/reply_comment_background.9.png"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_edit_comment.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bg_edit_comment.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/navigation_start_btn_bg.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/navigation_start_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/tb_munion_icon.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/tb_munion_icon.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/umeng_update_button_ok_bg_selector.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/umeng_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_text_color_tab.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/selector_text_color_tab.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_content_stroke.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bg_content_stroke.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_tab_home.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/selector_tab_home.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_question.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/selector_question.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_button_check_phone.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bg_button_check_phone.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/umeng_update_dialog_bg.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/umeng_update_dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bubble_shape.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bubble_shape.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_button_balance_recharge.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bg_button_balance_recharge.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_button_zhifubao_recharge.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bg_button_zhifubao_recharge.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_feedback.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/selector_feedback.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_question.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/selector_question.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/umeng_update_button_cancel_bg_normal.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/umeng_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_evaluate.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bg_evaluate.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_button_submit.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bg_button_submit.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/icon_line_gray.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/icon_line_gray.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_query_evaluate.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bg_query_evaluate.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/time_range_dialog_bg.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/time_range_dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/umeng_update_dialog_bg.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/umeng_update_dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/umeng_update_button_ok_bg_focused.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/umeng_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_prepare_pay.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/selector_prepare_pay.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_button_pay_shape.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/selector_button_pay_shape.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/umeng_update_button_cancel_bg_focused.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/umeng_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_prepare_identify.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/selector_prepare_identify.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_query_evaluate.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bg_query_evaluate.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_text_color_tab.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/selector_text_color_tab.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_already_evaluate.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bg_already_evaluate.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_button_pay_success.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bg_button_pay_success.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/umeng_update_button_ok_bg_normal.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/umeng_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/icon_line_dotted.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/icon_line_dotted.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_button_balance_recharge2.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bg_button_balance_recharge2.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_tab_home.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/selector_tab_home.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_tab_info.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/selector_tab_info.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_choose_dialog_title.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bg_choose_dialog_title.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_text_color_share_comment.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/selector_text_color_share_comment.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_content_stroke.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bg_content_stroke.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_content_corners.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bg_content_corners.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/umeng_update_button_ok_bg_tap.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/umeng_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_tab_user.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/selector_tab_user.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_identify_tip.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/selector_identify_tip.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/pay_success_red.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/pay_success_red.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/enroll_enter_button_bg.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/enroll_enter_button_bg.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/icon_line_dotted_gray.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/icon_line_dotted_gray.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_backgroud_shape.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/selector_backgroud_shape.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_button_submit_orange.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bg_button_submit_orange.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_user_pay_radio_btn.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/selector_user_pay_radio_btn.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/umeng_update_button_cancel_bg_selector.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/umeng_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_have_paid.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/selector_have_paid.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_identify_tip.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/selector_identify_tip.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/icon_line_limit_gray.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/icon_line_limit_gray.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/icon_line_vertical_gray.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/icon_line_vertical_gray.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/icon_line_horizon_gray.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/icon_line_horizon_gray.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_prepare_pay.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/selector_prepare_pay.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/icon_line_vertical.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/icon_line_vertical.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/umeng_update_button_ok_bg_tap.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/umeng_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/navigation_start_btn_bg.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/navigation_start_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/umeng_update_button_ok_bg_selector.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/umeng_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/icon_line_dotted_gray.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/icon_line_dotted_gray.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/selector_img_share.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/selector_img_share.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_query_price.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bg_query_price.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_label.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bg_label.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/vpi_tab_indicator.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/vpi_tab_indicator.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/ratingbar_drawable.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/ratingbar_drawable.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_already_evaluate.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable/bg_already_evaluate.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable/bg_navigation_footer_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable/bg_navigation_footer_item.xml"
+    }
+]

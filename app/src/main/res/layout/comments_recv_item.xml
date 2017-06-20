@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:fresco="http://schemas.android.com/apk/res-auto"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:id="@+id/img_comment_photo"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        fresco:placeholderImage="@drawable/icon_default"
+        fresco:roundAsCircle="true"
+        fresco:viewAspectRatio="1.0"/>
+
+    <TextView
+        android:id="@+id/tv_comment_fake_real_tag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/img_comment_photo"
+        android:text="真品"/>
+
+    <TextView
+        android:id="@+id/tv_comment_report"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_comment_fake_real_tag"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/img_comment_photo"
+        android:text="真的是真的。。。。。。。"/>
+
+    <RelativeLayout
+        android:id="@+id/rl_ask_comments_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img_comment_photo">
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/img_comment_user_head"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            fresco:placeholderImage="@drawable/icon_default"
+            fresco:roundAsCircle="true"
+            fresco:viewAspectRatio="1.0"/>
+
+        <TextView
+            android:id="@+id/tv_comment_username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@+id/img_comment_user_head"
+            android:text="询问人:"/>
+
+        <TextView
+            android:id="@+id/tv_comment_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@+id/tv_comment_username"
+            android:text="请问这个多少钱?"/>
+
+        <TextView
+            android:id="@+id/tv_comments_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@+id/tv_comment_content"
+            android:text="时间"/>
+
+        <TextView
+            android:id="@+id/tv_comments_floor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@+id/tv_comments_time"
+            android:text="时间"
+            />
+    </RelativeLayout>
+</RelativeLayout>

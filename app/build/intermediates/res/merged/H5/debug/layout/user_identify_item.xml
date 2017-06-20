@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:fresco="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="#11000000"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/tv_item_identify_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/iv_identify_type_img"
+            android:textColor="#303030"
+            android:textSize="14dp"/>
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/iv_identify_type_img"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            fresco:actualImageScaleType="fitCenter"
+            fresco:viewAspectRatio="1.0"/>
+
+        <ImageView
+            android:id="@+id/bt_delete_identify"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="10dp"
+            android:src="@drawable/identify_delete"/>
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/rl_identify_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/refund_txt_bg"
+        android:padding="10dp">
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/sdv_item_identify_img"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@color/gray8"
+            fresco:placeholderImage="@drawable/icon_default"
+            fresco:viewAspectRatio="1.0"/>
+
+        <TextView
+            android:id="@+id/tv_item_identify_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/sdv_item_identify_img"
+            android:layout_toRightOf="@+id/sdv_item_identify_img"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textColor="@color/black3"
+            android:textSize="@dimen/ts_normal_small"/>
+
+        <TextView
+            android:id="@+id/tv_item_identify_note"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_item_identify_number"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@+id/sdv_item_identify_img"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:textColor="@color/black2"
+            android:textSize="@dimen/ts_normal_small"/>
+    </RelativeLayout>
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+        <RelativeLayout
+            android:id="@+id/ll_no_pay_identify"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/btn_edit_identify"
+                android:layout_width="60dp"
+                android:layout_height="25dp"
+                android:layout_marginRight="10dp"
+                android:layout_toLeftOf="@+id/bt_pay_identify"
+                android:background="@drawable/bg_button_white"
+                android:gravity="center"
+                android:text="@string/modification"
+                android:textColor="#8e8e8e"
+                android:textSize="13sp"
+                android:visibility="gone"/>
+
+            <TextView
+                android:id="@+id/bt_pay_identify"
+                android:layout_width="60dp"
+                android:layout_height="25dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="15dp"
+                android:background="@drawable/bg_button_submit"
+                android:gravity="center"
+                android:text="@string/payment"
+                android:textColor="@color/white"
+                android:textSize="13sp"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/ll_switch_identified"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/tv_switch_identified"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:layout_toLeftOf="@+id/bt_switch_identified"
+                android:gravity="center"
+                android:text="@string/identification_open"
+                android:textColor="@color/gray4"
+                android:textSize="13sp"/>
+
+            <com.zcw.togglebutton.ToggleButton android:id="@+id/bt_switch_identified"
+                                               xmlns:toggle="http://schemas.android.com/apk/res-auto"
+                                               android:layout_width="44dp"
+                                               android:layout_height="20dp"
+                                               android:layout_centerVertical="true"
+                                               android:layout_marginRight="10dp"
+                                               android:layout_toLeftOf="@+id/btn_refund_identified"
+                                               toggle:onColor="#e8a825"/>
+
+            <TextView
+                android:id="@+id/btn_refund_identified"
+                android:layout_width="60dp"
+                android:layout_height="25dp"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:layout_toLeftOf="@+id/evaluate_btn"
+                android:background="@drawable/bg_evaluate"
+                android:gravity="center"
+                android:text="@string/refund"
+                android:textColor="@color/white"
+                android:textSize="@dimen/ts_normal_third"
+                android:visibility="gone"/>
+
+            <Button
+                android:id="@+id/evaluate_btn"
+                android:layout_width="60dp"
+                android:layout_height="25dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/bg_evaluate"
+                android:gravity="center"
+                android:textSize="@dimen/ts_normal_third"/>
+        </RelativeLayout>
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/iv_timeout"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/time_out"/>
+
+        <TextView
+            android:id="@+id/timeout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:textColor="@color/transparent_red_63"/>
+    </LinearLayout>
+
+</LinearLayout>

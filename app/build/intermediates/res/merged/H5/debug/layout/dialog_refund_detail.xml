@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/bg_content_corners"
+                android:gravity="center_vertical"
+                android:paddingBottom="10dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp">
+
+    <LinearLayout
+        android:id="@+id/ll_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="20dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_title_one"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/refund_detail_one"
+            android:textColor="@color/gray10"
+            android:textSize="@dimen/ts_normal_second"/>
+
+        <TextView
+            android:id="@+id/tv_title_two"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/refund_detail_two"
+            android:textColor="@color/black3"
+            android:textSize="@dimen/ts_normal_second"/>
+    </LinearLayout>
+
+    <View
+        android:id="@+id/line"
+        android:layout_width="540dp"
+        android:layout_height="1px"
+        android:layout_below="@+id/ll_title"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="15dp"
+        android:background="@color/gray9"/>
+
+    <RelativeLayout
+        android:id="@+id/rl_content_one"
+        android:layout_width="540dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/line"
+        android:layout_marginBottom="10dp"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/tv_content_name_one"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:gravity="center"
+            android:text="成功更新了"
+            android:textColor="@color/refund_txt_color"
+            android:textSize="@dimen/ts_normal"/>
+
+        <TextView
+            android:id="@+id/tv_content_time_one"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:gravity="center"
+            android:text="你的人脉圈会扩大28*3倍哦~"
+            android:textColor="@color/refund_txt_color"
+            android:textSize="@dimen/ts_normal"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_content_two"
+        android:layout_width="540dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_content_one"
+        android:layout_marginBottom="10dp"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/tv_content_name_two"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:gravity="center"
+            android:text="成功更新了"
+            android:textColor="@color/refund_txt_color"
+            android:textSize="@dimen/ts_normal"/>
+
+        <TextView
+            android:id="@+id/tv_content_time_two"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:gravity="center"
+            android:text="你的人脉圈会扩大28*3倍哦~"
+            android:textColor="@color/refund_txt_color"
+            android:textSize="@dimen/ts_normal"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_content_three"
+        android:layout_width="540dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_content_two"
+        android:layout_marginBottom="10dp"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/tv_content_name_three"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:gravity="center"
+            android:text="成功更新了"
+            android:textColor="@color/refund_txt_color"
+            android:textSize="@dimen/ts_normal"/>
+
+        <TextView
+            android:id="@+id/tv_content_time_three"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:gravity="center"
+            android:text="你的人脉圈会扩大28*3倍哦~"
+            android:textColor="@color/refund_txt_color"
+            android:textSize="@dimen/ts_normal"/>
+    </RelativeLayout>
+</RelativeLayout>

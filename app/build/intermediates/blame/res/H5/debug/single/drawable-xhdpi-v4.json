@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable-xhdpi-v4/icon_server_default.jpg",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/drawable-xhdpi/icon_server_default.jpg"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable-xhdpi-v4/icon_server_default.jpg",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/drawable-xhdpi/icon_server_default.jpg"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable-xhdpi-v4/shadow_bottom.png",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/me.imid.swipebacklayout.lib/library/1.0.0/res/drawable-xhdpi-v4/shadow_bottom.png"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable-xhdpi-v4/shadow_bottom.png",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/me.imid.swipebacklayout.lib/library/1.0.0/res/drawable-xhdpi-v4/shadow_bottom.png"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable-xhdpi-v4/shadow_left.png",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/me.imid.swipebacklayout.lib/library/1.0.0/res/drawable-xhdpi-v4/shadow_left.png"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable-xhdpi-v4/shadow_left.png",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/me.imid.swipebacklayout.lib/library/1.0.0/res/drawable-xhdpi-v4/shadow_left.png"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/drawable-xhdpi-v4/shadow_right.png",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/me.imid.swipebacklayout.lib/library/1.0.0/res/drawable-xhdpi-v4/shadow_right.png"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/drawable-xhdpi-v4/shadow_right.png",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/me.imid.swipebacklayout.lib/library/1.0.0/res/drawable-xhdpi-v4/shadow_right.png"
+    }
+]

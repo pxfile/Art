@@ -1,0 +1,1354 @@
+[
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_album.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/list_item_album.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/photo_gallery_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/photo_gallery_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/fragment_private_userinfo.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/fragment_private_userinfo.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/sample_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/sample_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/fragment_collections_treasure.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/fragment_collections_treasure.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/price_query_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/price_query_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/swipeback_layout.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/me.imid.swipebacklayout.lib/library/1.0.0/res/layout/swipeback_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_responsibility.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/dialog_responsibility.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/fragment_collections_treasure.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/fragment_collections_treasure.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_user_sub.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_user_sub.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/sample_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/sample_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/layout_navigation_page.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/layout_navigation_page.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/news_related_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/news_related_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_order_topay.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_order_topay.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_user_sub.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/list_item_user_sub.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_comments_layout.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_comments_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_userregist.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_userregist.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_select_head_img.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/dialog_select_head_img.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/header_expert.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/header_expert.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_progress.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/dialog_progress.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/fragment_identify.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/fragment_identify.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/fragment_user.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/fragment_user.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_progress.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/dialog_progress.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_launcher.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_launcher.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_introduce.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_introduce.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_pay.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_pay.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/layout_loading.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/layout_loading.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_order_expert.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/list_item_order_expert.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_law.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/dialog_law.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_pay_success.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_pay_success.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_info_title.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/list_item_info_title.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_take_picture.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_take_picture.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/time_range_dialog_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/time_range_dialog_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/comments_recv_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/comments_recv_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/fragment_meet.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/fragment_meet.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_play_video.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_play_video.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_userlogin.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_userlogin.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_send_message_success.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/dialog_send_message_success.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_user_score.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_user_score.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_forget_pswd.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_forget_pswd.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/fragment_home.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_order_expert.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/list_item_order_expert.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_price_query_content.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_price_query_content.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_submit_order.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_submit_order.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_select_head_img.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/dialog_select_head_img.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_pay_identify_meet_sucess.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/dialog_pay_identify_meet_sucess.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_noun_interpretation.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/dialog_noun_interpretation.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/notification_template_lines.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_main.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/user_identify_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/user_identify_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/fragment_find.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/fragment_find.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/center_music_more_window.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/center_music_more_window.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_list_item_choose.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/dialog_list_item_choose.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/item_score_record.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/item_score_record.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_order_comment.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/list_item_order_comment.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_find.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_find.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_comments_layout.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_comments_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/coments_send_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/coments_send_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_user_identify_payinfo.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_user_identify_payinfo.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_pay_alert.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/dialog_pay_alert.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_rate.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/dialog_rate.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/time_range_dialog_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/time_range_dialog_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_enroll_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_enroll_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_info_content.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/list_item_info_content.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_edit_nickname.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_edit_nickname.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_user_feedback_layout.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_user_feedback_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/tb_munion_aditem.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/tb_munion_aditem.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_home_banner_picture.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/list_item_home_banner_picture.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/fragment_private_userinfo.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/fragment_private_userinfo.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_search_view.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_info.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/list_item_info.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_refund_detail.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/dialog_refund_detail.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_expert_detail.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_expert_detail.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_enroll_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_enroll_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_evaluate_expert.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/list_item_evaluate_expert.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_user_sub.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_user_sub.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/umeng_update_dialog.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/umeng_update_dialog.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_home_banner_picture.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/list_item_home_banner_picture.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_submit_order_picture.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/list_item_submit_order_picture.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_user_identify_payinfo.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_user_identify_payinfo.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/pull_to_refresh_header.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_expert_detail.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_expert_detail.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_user_recharge.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_user_recharge.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/fragment_userjianbaoinfo.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/fragment_userjianbaoinfo.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/layout_share_board.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/layout_share_board.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_info_related.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/list_item_info_related.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/center_music_more_window.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/center_music_more_window.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_search_view.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/user_identify_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/user_identify_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_user_check_phone_number.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_user_check_phone_number.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/photo_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/photo_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_play_video.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_play_video.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_info_title.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/list_item_info_title.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/active_dialog.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/active_dialog.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/header_home.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/header_home.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/news_detail_type_related.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/news_detail_type_related.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/fragment_identify.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/fragment_identify.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_preview_picture.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_preview_picture.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/indicator_spring.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/indicator_spring.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_edit_comment.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/dialog_edit_comment.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/item_user_feedback.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/item_user_feedback.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activiy_webview.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activiy_webview.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_info.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/list_item_info.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_input_invited_code.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_input_invited_code.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/fragment_home.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/fragment_user_sub.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/fragment_user_sub.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_identify_type.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/list_item_identify_type.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/recomments_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/recomments_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_contact_us.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_contact_us.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_input_invited_code.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_input_invited_code.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_edit_nickname.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_edit_nickname.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_list_item_choose.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/dialog_list_item_choose.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/prompt_alert_dialog.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/prompt_alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_info_comment.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/list_item_info_comment.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_user_collection.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_user_collection.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_identify_type.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/list_item_identify_type.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/user_identify_meeting_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/user_identify_meeting_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_invite_friend.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_invite_friend.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_organization.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/list_item_organization.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_user_sub.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/list_item_user_sub.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/notification_template_media.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/layout_no_net_data.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/layout_no_net_data.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/layout_navigation_page.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/layout_navigation_page.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_order_topay.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_order_topay.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_user_score_record.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_user_score_record.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_info_related.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/list_item_info_related.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_photo.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_photo.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/fragment_settings.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_user_wallet.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_user_wallet.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/fragment_expert.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/fragment_expert.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_edit_info.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/dialog_edit_info.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/pull_to_refresh_header.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/notification_template_lines.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_edit_password.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_edit_password.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/time_range_dialog.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/time_range_dialog.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_refund_detail.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/dialog_refund_detail.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_rate.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/dialog_rate.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/comments_recv_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/comments_recv_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/item_identify_skill.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/item_identify_skill.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_choose_identify_type.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/dialog_choose_identify_type.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/news_detail_type_context.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/news_detail_type_context.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_edit_info.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/dialog_edit_info.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/umeng_update_dialog.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/umeng_update_dialog.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_expert_comment.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/list_item_expert_comment.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/news_detail_type_context.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/news_detail_type_context.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/user_identify_meeting_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/user_identify_meeting_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_noun_interpretation.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/dialog_noun_interpretation.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/fragment_user.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/fragment_user.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_pay_alert.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/dialog_pay_alert.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/fragment_meet.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/fragment_meet.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_user_recharge_record.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_user_recharge_record.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_expert.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/list_item_expert.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/photo_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/photo_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/layout_title.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/layout_title.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_submit_order_picture.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/list_item_submit_order_picture.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_identify_type.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_identify_type.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_enroll.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_enroll.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/item_recharge_value_select.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/item_recharge_value_select.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_user_balance.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_user_balance.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_identify_tip.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_identify_tip.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_choose_identify_type.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/dialog_choose_identify_type.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_baifubaopay_layout.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_baifubaopay_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_invite_friend.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_invite_friend.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_splash_layout.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_splash_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_photo_gallery.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_photo_gallery.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/photo_gallery_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/photo_gallery_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_edit_password.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_edit_password.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_find.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_find.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/tb_munion_aditem.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/tb_munion_aditem.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/header_expert.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/header_expert.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_order.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/list_item_order.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_responsibility.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/dialog_responsibility.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_introduce.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_introduce.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_info_detail.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_info_detail.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_edit_comment.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/dialog_edit_comment.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/fragment_info.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/fragment_info.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/xlistview_footer.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/xlistview_footer.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/layout_loading.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/layout_loading.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/notification_media_action.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_user_score.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_user_score.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_expert_list.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_expert_list.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_pay_identify_meet_sucess.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/dialog_pay_identify_meet_sucess.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_take_picture.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_take_picture.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/item_score_record.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/item_score_record.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_footer_refresh.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/list_item_footer_refresh.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_price_query_content.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_price_query_content.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/indicator_spring.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/indicator_spring.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/notification_template_media.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/notification_media_action.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_userlogin.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_userlogin.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_baifubaopay_layout.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_baifubaopay_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/infos_list.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/infos_list.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/swipeback_layout.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/me.imid.swipebacklayout.lib/library/1.0.0/res/layout/swipeback_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_info_comment.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/list_item_info_comment.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_splash_layout.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_splash_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_user_recharge_select.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_user_recharge_select.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_organization.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/list_item_organization.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/coments_send_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/coments_send_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_footer_refresh.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/list_item_footer_refresh.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_submit_order.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_submit_order.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_user_recharge.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_user_recharge.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_order_detail.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_order_detail.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_aboutus.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_aboutus.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_user_wallet.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_user_wallet.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_preview_picture.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_preview_picture.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/recomments_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/recomments_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_photo_gallery.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_photo_gallery.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_userregist.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_userregist.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/active_dialog.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/active_dialog.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/header_home.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/header_home.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_choose.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/dialog_choose.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_law.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/dialog_law.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_recharge_fail.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_recharge_fail.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/xlistview_footer.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/xlistview_footer.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_user_score_record.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_user_score_record.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_problem.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_problem.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/layout_no_net_data.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/layout_no_net_data.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/news_related_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/news_related_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_choose.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/dialog_choose.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/xlistview_header.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/xlistview_header.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_pay_success.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_pay_success.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/fragment_expert.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/fragment_expert.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_order_comment.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/list_item_order_comment.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_info_content.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/list_item_info_content.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/fragment_identify_skill.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/fragment_identify_skill.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_scan_code.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/dialog_scan_code.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_expert_list.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_expert_list.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_evaluate_expert.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/list_item_evaluate_expert.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_order_detail.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_order_detail.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_forget_pswd.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_forget_pswd.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_album.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/list_item_album.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/price_query_item.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/price_query_item.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activiy_webview.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activiy_webview.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/fragment_user_sub.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/fragment_user_sub.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_contact_us.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_contact_us.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_send_message_success.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/dialog_send_message_success.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_photo.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_photo.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_info_detail.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_info_detail.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_order.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/list_item_order.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_launcher.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_launcher.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/layout_share_board.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/layout_share_board.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/item_identify_skill.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/item_identify_skill.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_user_feedback_layout.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_user_feedback_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_user_recharge_select.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_user_recharge_select.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/fragment_identify_skill.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/fragment_identify_skill.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_aboutus.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_aboutus.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_user_collection.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_user_collection.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/fragment_settings.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_expert_comment.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/list_item_expert_comment.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/fragment_userjianbaoinfo.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/fragment_userjianbaoinfo.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/news_detail_type_related.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/news_detail_type_related.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/dialog_scan_code.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/dialog_scan_code.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_identify_tip.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_identify_tip.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_enroll.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_enroll.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/xlistview_header.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/xlistview_header.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/list_item_expert.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/list_item_expert.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_problem.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_problem.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/fragment_info.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/fragment_info.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_pay.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_pay.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/infos_list.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/infos_list.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_identify_type.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_identify_type.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/layout_title.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/layout_title.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_user_balance.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_user_balance.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_recharge_fail.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_recharge_fail.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/item_recharge_value_select.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/item_recharge_value_select.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_user_check_phone_number.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_user_check_phone_number.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_user_recharge_record.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/activity_user_recharge_record.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/item_user_feedback.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/item_user_feedback.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/time_range_dialog.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/time_range_dialog.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/activity_main.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/layout/fragment_find.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/layout/fragment_find.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/layout/prompt_alert_dialog.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/layout/prompt_alert_dialog.xml"
+    }
+]

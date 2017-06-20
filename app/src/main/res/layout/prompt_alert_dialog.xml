@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent">
+
+    <LinearLayout
+        android:id="@+id/umeng_update_frame"
+        android:layout_width="320dp"
+        android:layout_height="180dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/umeng_update_dialog_bg"
+        android:orientation="vertical">
+
+       <LinearLayout
+           android:id="@+id/ll_content_active"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="vertical">
+
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center_horizontal"
+               android:layout_marginTop="20dp"
+               android:text="@string/ACTIVE_OVER"
+               android:textColor="#FF323232"
+               android:textSize="20sp" />
+
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center_horizontal"
+               android:layout_marginTop="20dp"
+               android:text="@string/ACTIVE_INFO"
+               android:textSize="14sp" />
+       </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_content_pay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:text="@string/CANCEL_PAY"
+                android:textColor="#FF323232"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:text="@string/PAY_INFO"
+                android:textSize="14sp" />
+        </LinearLayout>
+        <TextView
+            android:id="@+id/tv_delete_order"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginTop="40dp"
+            android:gravity="center_horizontal"
+            android:visibility="gone"
+            android:textColor="#FF323232"
+            android:text="@string/MEET_ORDER_DELETE"/>
+
+        <TextView
+            android:id="@+id/tv_cancel_enroll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginTop="40dp"
+            android:gravity="center_horizontal"
+            android:visibility="gone"
+            android:textColor="#FF323232"
+            android:text="@string/MEET_CANCEL_ENROLL"/>
+
+        <View
+            android:layout_width="250dp"
+            android:layout_height="1dp"
+            android:layout_marginLeft="35dp"
+            android:layout_marginRight="35dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginBottom="15dp"
+            android:background="#FFD8D8D8" />
+        <!-- Content -->
+
+
+        <LinearLayout
+            android:id="@+id/ll_order_no_ok"
+            android:layout_width="match_parent"
+            android:visibility="gone"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/btn_ok"
+                style="@style/UpdateDialogButtonStyle"
+                android:background="@drawable/umeng_update_button_cancel_bg_selector"
+                android:text="@string/OK"
+                android:textColor="#FF323232" />
+            <Button
+                android:id="@+id/btn_cancel"
+                style="@style/UpdateDialogButtonStyle"
+                android:background="@drawable/umeng_update_button_ok_bg_selector"
+                android:text="@string/CANCEL"
+                android:textColor="#FF323232" />
+
+            <Button
+                android:id="@+id/umeng_update_id_ignore"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:visibility="gone" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/active_end_ok"
+            android:layout_height="40dp"
+            android:layout_width="match_parent"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/umeng_update_button_cancel_bg_selector"
+            android:text="@string/OK"
+            android:textColor="#FF323232" />
+    </LinearLayout>
+
+</RelativeLayout>

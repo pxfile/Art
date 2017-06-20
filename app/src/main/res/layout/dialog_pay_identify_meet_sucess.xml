@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_button_pay_success"
+    android:paddingLeft="23dp"
+    android:paddingRight="23dp">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dialog_identify_meet_pay_success_title"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/red2"
+        android:layout_centerHorizontal="true"
+        android:textSize="18dp"/>
+    
+    <TextView
+        android:id="@+id/header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dialog_identify_meet_pay_success_order_number"
+        android:layout_marginTop="20dp"
+        android:textColor="#646464"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/title"
+        android:textSize="16sp"/>
+    
+    
+    <LinearLayout
+        android:id="@+id/order_number_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/header"
+        android:layout_marginTop="10dp">
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_appointment_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/order_number_container"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black5"
+            android:textSize="16sp"
+            android:text="@string/dialog_identify_meet_time_info"/>
+        <TextView
+            android:id="@+id/tv_appointment_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:textSize="16sp"
+            android:textColor="@color/red2"
+            />
+    </LinearLayout>
+    <TextView
+        android:id="@+id/tv_prompt_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll_appointment_time"
+        android:layout_marginTop="5dp"
+        android:text="@string/order_prompt_info"/>
+
+    <TextView
+        android:id="@+id/tip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="@string/dialog_identify_meet_tip"
+        android:textColor="#646464"
+        android:textSize="14sp"
+        android:layout_below="@+id/ll_appointment_time"/>
+
+    <View
+        android:id="@+id/divider"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#f0f0f0"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/tip"/>
+
+    <Button
+        android:id="@+id/btn_call"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="拨打客服电话"
+        android:textSize="16sp"
+        android:layout_marginTop="30dp"
+        android:layout_below="@+id/divider"
+        android:background="@drawable/bg_button_pay_success_call_btn"
+        android:height="30dp"/>
+
+    <Button
+        android:id="@+id/btn_confirm"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="关闭"
+        android:layout_marginTop="20dp"
+        android:textSize="16sp"
+        android:layout_below="@+id/btn_call"
+        android:background="@drawable/bg_button_pay_success_btn"
+        android:layout_marginBottom="30dp"
+        android:height="30dp"/>
+
+</RelativeLayout>

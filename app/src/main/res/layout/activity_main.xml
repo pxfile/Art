@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <include
+        android:id="@+id/layout_title"
+        layout="@layout/layout_title" />
+
+    <FrameLayout
+        android:id="@+id/fl_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/rl_footer"
+        android:layout_below="@+id/layout_title"
+        android:layout_marginBottom="-13dp" />
+
+    <RelativeLayout
+        android:id="@+id/rl_footer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/bg_navigation_footer">
+
+        <LinearLayout
+            android:id="@+id/ll_footer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv_home"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="4"
+                android:background="@drawable/bg_navigation_footer_item"
+                android:drawablePadding="3dp"
+                android:drawableTop="@drawable/selector_tab_home"
+                android:gravity="center"
+                android:paddingTop="5dp"
+                android:text="@string/home"
+                android:textColor="@drawable/selector_text_color_tab" />
+
+            <TextView
+                android:id="@+id/tv_expert"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="4"
+                android:background="@drawable/bg_navigation_footer_item"
+                android:drawablePadding="3dp"
+                android:drawableTop="@drawable/selector_tab_expert"
+                android:gravity="center"
+                android:paddingTop="5dp"
+                android:text="@string/expert"
+                android:textColor="@drawable/selector_text_color_tab" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="-6dp"
+                android:layout_weight="2"
+                android:src="@drawable/icon_camera_normal1" />
+
+            <TextView
+                android:id="@+id/tv_info"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="4"
+                android:background="@drawable/bg_navigation_footer_item"
+                android:drawablePadding="3dp"
+                android:drawableTop="@drawable/selector_tab_info"
+                android:gravity="center"
+                android:paddingTop="5dp"
+                android:text="@string/find"
+                android:textColor="@drawable/selector_text_color_tab" />
+
+            <RelativeLayout
+                android:id="@+id/tv_user"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_navigation_footer_item"
+                android:layout_weight="4">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawablePadding="3dp"
+                    android:drawableTop="@drawable/selector_tab_user"
+                    android:paddingTop="5dp"
+                    android:text="@string/me"
+                    android:layout_centerInParent="true"
+                    android:textColor="@drawable/selector_text_color_tab" />
+
+                <TextView
+                    android:id="@+id/tv_bubble_payment"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="2dp"
+                    android:background="@drawable/bubble_shape"
+                    android:gravity="center"
+                    android:text="10"
+                    android:textColor="@color/white"
+                    android:textSize="8sp" />
+            </RelativeLayout>
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/iv_identify"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="5dp"
+        android:src="@drawable/icon_camera_normal" />
+
+</RelativeLayout>

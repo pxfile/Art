@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_add_time"
+    android:layout_width="350dp"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="350dp"
+        android:layout_height="40dp"
+        android:background="#FFFFD400"
+        android:gravity="center"
+        android:text="请选择预约时间段"
+        android:textColor="#FF323232"
+        android:textSize="18sp" />
+
+
+</LinearLayout>

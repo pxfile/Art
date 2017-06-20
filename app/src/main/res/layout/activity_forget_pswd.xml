@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include
+        layout="@layout/layout_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="25dp">
+
+        <TextView
+            android:id="@+id/forget_phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:paddingRight="6dp"
+            android:text="@string/number"
+            android:textColor="@color/gray5"
+            android:textSize="@dimen/ts_normal_one" />
+
+
+        <EditText
+            android:id="@+id/et_mobile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_toEndOf="@+id/forget_phone"
+            android:layout_toRightOf="@+id/forget_phone"
+            android:background="@drawable/bg_edit_text"
+            android:textColorHint="@color/black3"
+            android:hint="@string/input_already_register"
+            android:paddingBottom="10dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="45dp"
+            android:paddingTop="10dp"
+            android:textSize="@dimen/ts_normal_one" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="25dp">
+
+        <TextView
+            android:id="@+id/forget_auth_code"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:paddingRight="6dp"
+            android:text="@string/identify_code"
+            android:textColor="@color/gray5"
+            android:textSize="@dimen/ts_normal_one" />
+
+
+        <LinearLayout
+            android:id="@+id/ll_forget_psw"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_toEndOf="@+id/forget_auth_code"
+            android:layout_toRightOf="@+id/forget_auth_code">
+
+            <EditText
+                android:id="@+id/et_authcode"
+                android:layout_width="155dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="13dp"
+                android:layout_weight="3"
+                android:textColorHint="@color/black3"
+                android:background="@drawable/bg_edit_text"
+                android:hint="@string/input_identify_code"
+                android:paddingBottom="10dp"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:textSize="@dimen/ts_normal_one" />
+
+            <TextView
+                android:id="@+id/get_auth_code"
+                android:layout_width="85dp"
+                android:layout_height="40dp"
+                android:layout_marginRight="6dp"
+                android:background="@drawable/bg_button_balance_recharge"
+                android:gravity="center"
+                android:paddingLeft="2dp"
+                android:paddingRight="2dp"
+                android:text="@string/get_identify_code"
+                android:textColor="@color/white"
+                android:textSize="@dimen/ts_normal" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="25dp">
+
+        <TextView
+            android:id="@+id/tv_new_psw"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:paddingRight="6dp"
+            android:text="@string/new_user_psw"
+            android:textColor="@color/gray5"
+            android:textSize="@dimen/ts_normal_one" />
+
+
+        <EditText
+            android:id="@+id/et_user_new_psw"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_toEndOf="@+id/tv_new_psw"
+            android:layout_toRightOf="@+id/tv_new_psw"
+            android:background="@drawable/bg_edit_text"
+            android:textColorHint="@color/black3"
+            android:hint="@string/enter_new_password"
+            android:inputType="textPassword"
+            android:paddingBottom="10dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:textSize="@dimen/ts_normal_one" />
+
+        <CheckBox
+            android:id="@+id/psw_choice"
+            style="@style/PswChoice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/et_user_new_psw"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="9dp"
+            android:layout_weight="0.1"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="34dp">
+
+        <Button
+            android:id="@+id/bt_change_psw"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/bg_button_submit"
+            android:gravity="center"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="@string/complete"
+            android:textColor="@color/white"
+            android:textSize="@dimen/ts_normal_one" />
+    </RelativeLayout>
+</LinearLayout>

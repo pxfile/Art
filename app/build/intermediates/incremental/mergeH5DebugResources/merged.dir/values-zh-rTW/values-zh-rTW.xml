@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="available_expert">
+        <item>2</item>
+        <item>3</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>14</item>
+        <item>20</item>
+        <item>21</item>
+        <item>26</item>
+        <item>32</item>
+        <item>35</item>
+        <item>36</item>
+        <item>39</item>
+        <item>41</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>48</item>
+    </string-array>
+    <string-array name="choice_evaluate">
+        <item>很專業</item>
+        <item>很迅速</item>
+        <item>膜拜</item>
+        <item>很準確</item>
+        <item>不專業</item>
+        <item>不準確</item>
+        <item>壹般</item>
+        <item>太慢了</item>
+    </string-array>
+    <array name="indicator_colors">
+        <item>@color/indicator_1</item>
+        <item>@color/indicator_2</item>
+        <item>@color/indicator_3</item>
+        <item>@color/indicator_4</item>
+    </array>
+    <string-array name="view_3d_bronze">
+        <item>請拍攝一張銅器正面整體圖片</item>
+        <item>請拍攝一張銅器側面圖片</item>
+        <item>請拍攝一張銅器底部圖片</item>
+        <item>請再拍攝一張銅器局部細節圖片</item>
+    </string-array>
+    <string-array name="view_3d_bronze_sub">
+        <item>銅器正面整體</item>
+        <item>銅器底部</item>
+        <item>銅器側面</item>
+        <item>銅器局部細節</item>
+    </string-array>
+    <string-array name="view_3d_china">
+        <item>請拍攝一張瓷器整體圖片</item>
+        <item>請拍攝一張瓷器口沿圖片</item>
+        <item>請拍攝一張瓷器底部圖片</item>
+        <item>請拍攝一張瓷器表面細節圖</item>
+    </string-array>
+    <string-array name="view_3d_china_sub">
+        <item>瓷器整體</item>
+        <item>瓷器口沿</item>
+        <item>瓷器底部</item>
+        <item>表面細節</item>
+    </string-array>
+    <string-array name="view_3d_jade">
+        <item>請拍攝一張玉器整體圖片</item>
+        <item>請拍攝一張玉器尺寸對比圖片</item>
+        <item>請拍攝一張玉器其他角度圖片</item>
+        <item>請拍攝一張局部細節圖片</item>
+    </string-array>
+    <string-array name="view_3d_jade_sub">
+        <item>玉器整體</item>
+        <item>玉器尺寸對比</item>
+        <item>其他角度</item>
+        <item>局部細節</item>
+    </string-array>
+    <string-array name="view_3d_money">
+        <item>錢幣正面</item>
+        <item>錢幣背面</item>
+        <item>錢幣側邊</item>
+        <item>錢幣局部細節</item>
+    </string-array>
+    <string-array name="view_3d_money_bronze">
+        <item>請拍攝一張銅幣正面圖片</item>
+        <item>請拍攝一張銅幣背面圖片</item>
+        <item>請拍攝一張銅幣側邊圖片</item>
+        <item>請再拍攝一張銅幣局部細節圖片</item>
+    </string-array>
+    <string-array name="view_3d_money_bronze_sub">
+        <item>銅幣正面</item>
+        <item>銅幣背面</item>
+        <item>銅幣側邊</item>
+        <item>銅幣局部細節</item>
+    </string-array>
+    <string-array name="view_3d_money_paper">
+        <item>請拍攝一張紙幣正面圖片</item>
+        <item>請拍攝一張紙幣背面圖片</item>
+        <item>請拍攝一張紙幣透光圖片</item>
+        <item>請再拍攝一張紙幣局部細節圖片</item>
+    </string-array>
+    <string-array name="view_3d_money_paper_sub">
+        <item>紙幣正面</item>
+        <item>紙幣背面</item>
+        <item>紙幣透光</item>
+        <item>紙幣局部細節</item>
+    </string-array>
+    <string-array name="view_3d_money_silver">
+        <item>請拍攝一張銀元正面圖片</item>
+        <item>請拍攝一張銀元背面圖片</item>
+        <item>請拍攝一張銀元齒邊細節圖片</item>
+        <item>請再拍攝一張銀元局部細節圖片</item>
+    </string-array>
+    <string-array name="view_3d_money_silver_sub">
+        <item>銀元正面</item>
+        <item>銀元背面</item>
+        <item>銀元齒邊細節</item>
+        <item>銀元局部細節</item>
+    </string-array>
+    <string-array name="view_3d_painting">
+        <item>請拍攝一張書畫正面整體圖片</item>
+        <item>請拍攝一張書畫落款、印章圖片</item>
+        <item>請拍攝一張書畫局部細節圖片</item>
+        <item>請再拍攝一張書畫局部細節圖片</item>
+    </string-array>
+    <string-array name="view_3d_painting_sub">
+        <item>書畫正面整體</item>
+        <item>書畫落款、印章</item>
+        <item>書畫局部細節</item>
+        <item>書畫局部細節</item>
+    </string-array>
+    <string-array name="view_3d_sundry">
+        <item>請拍攝一張整體圖片</item>
+        <item>請拍攝一張其他角度圖片</item>
+        <item>請拍攝一張局部細節圖片</item>
+        <item>請再拍攝一張局部細節圖片</item>
+    </string-array>
+    <string-array name="view_3d_sundry_sub">
+        <item>整體</item>
+        <item>其他角度</item>
+        <item>局部細節</item>
+        <item>局部細節</item>
+    </string-array>
+    <string-array name="view_3d_wooden">
+        <item>請拍攝一張木器整體圖片</item>
+        <item>請拍攝一張木器重要位置圖片</item>
+        <item>請拍攝一張木器局部細節圖片</item>
+        <item>請再拍攝一張木器局部細節圖片</item>
+    </string-array>
+    <string-array name="view_3d_wooden_sub">
+        <item>木器整體</item>
+        <item>木器重要位置</item>
+        <item>木器局部細節</item>
+        <item>木器局部細節</item>
+    </string-array>
+    <item name="tag_order_id" type="id"/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"瀏覽首頁"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"向上瀏覽"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多選項"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"選擇應用程式"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"關閉"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"開啟"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜尋…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查詢"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜尋查詢"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜尋"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查詢"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"語音搜尋"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"選擇分享對象"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"與「%s」分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收合"</string>
+    <string name="about_us">關於我們</string>
+    <string name="about_us_msg">  手機鑒定是根據廣大用戶需求精心研發的鑒寶產品。旨在為您
+提供快捷、方便、專業的鑒定服務。</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_more_pictures">添加更多圖片</string>
+    <string name="ali_paying">正在支付..</string>
+    <string name="already_evaluate_to_expert">已評價</string>
+    <string name="app_name">手機鑒寶</string>
+    <string name="appointment">我要預約專家</string>
+    <string name="appreciate_num">好評 : %1$s</string>
+    <string name="association_school">學院協會</string>
+    <string name="at_most_to_input">最多可以輸入80個字</string>
+    <string name="attention">關註</string>
+    <string name="attention_failed">關注失敗</string>
+    <string name="auth_code_head">驗  證  碼</string>
+    <string name="auth_code_tip_empty_number">號碼不能為空,請重新輸入</string>
+    <string name="auth_code_tip_empty_password">密碼不能為空,請重新輸入</string>
+    <string name="auth_code_tip_password_not_identical">兩次輸入密碼不一致,請重新輸入</string>
+    <string name="auth_code_tip_password_too_short">密碼長度不能小於6位,手機號碼格式有誤,請重新輸入</string>
+    <string name="auth_code_tip_wait">請等待驗證碼短信…</string>
+    <string name="available_balance">可用余額：</string>
+    <string name="balance_not_enough">余額不足,請充值</string>
+    <string name="bfb_recharge">百付寶充值</string>
+    <string name="by_below_method_to_invite">通過以下方式邀請</string>
+    <string name="cache_clean_failed">清除緩存失敗</string>
+    <string name="cache_clean_result">已清除緩存</string>
+    <string name="cache_no_need_clean">沒有緩存</string>
+    <string name="can_not_connect">無法連接到服務器</string>
+    <string name="cancel_modify_auth_code">取消手機驗證?</string>
+    <string name="cancel_modify_nickname">取消修改昵稱?</string>
+    <string name="cancel_modify_password">取消修改密碼?</string>
+    <string name="cancle">取消</string>
+    <string name="cannot_connect_network">無網絡連接，請檢查您的網絡設置..</string>
+    <string name="capital_museum">首都博物館</string>
+    <string name="change_photo">更換頭像</string>
+    <string name="check_about_us">查看關於我們</string>
+    <string name="check_out_my_wallet">查看我的錢包</string>
+    <string name="check_phone_failed">手機校驗失敗</string>
+    <string name="check_phone_number">手機驗證</string>
+    <string name="check_phone_success">手機校驗成功</string>
+    <string name="checking_phone_number">正在校驗…</string>
+    <string name="chinese_academy_of_social_sciences">社科院</string>
+    <string name="choice_pay_method">选择支付方式:</string>
+    <string name="choice_recharge_type">請選擇要充值的金額</string>
+    <string name="collect">天下收藏</string>
+    <string name="collection">收藏</string>
+    <string name="comment">評論</string>
+    <string name="comment_fail">評論失敗</string>
+    <string name="comment_info">請發表您的評論吧!</string>
+    <string name="comment_prompt">評論不能為空或空格，請重新輸入</string>
+    <string name="comment_success">評論成功</string>
+    <string name="comments">評論回帖</string>
+    <string name="commit_edit_user_info_failed">提交用戶信息失敗</string>
+    <string name="commit_edit_user_info_success">提交用戶信息成功</string>
+    <string name="commit_evaluate">提交評價</string>
+    <string name="complete">完成</string>
+    <string name="confirm">確認</string>
+    <string name="confirm_cancel">確認取消</string>
+    <string name="confirm_delete_collection">確認要刪除該藏品</string>
+    <string name="confirm_loading">是否要重新加載</string>
+    <string name="confirm_login">是否要登錄</string>
+    <string name="contact_us">聯系我們</string>
+    <string name="contact_us_qq">QQ群：145268901</string>
+    <string name="contact_us_sina">新浪微博：手機鑒寶-博寶</string>
+    <string name="contact_us_tel">電話：010–68703488</string>
+    <string name="contact_us_wx">微信：sjjb2006</string>
+    <string name="content_not_empty">內容不能為空</string>
+    <string name="continue_modify">繼續修改</string>
+    <string name="copy_invite_code">復制邀請碼</string>
+    <string name="copy_success">複製成功</string>
+    <string name="cultural_relics_bureau">北京文物局</string>
+    <string name="current_score">當前積分:</string>
+    <string name="current_version">當前版本</string>
+    <string name="data_download">數據加載中···</string>
+    <string name="deal">一槌定音</string>
+    <string name="debug">debug</string>
+    <string name="delete">刪除</string>
+    <string name="delete_collection_failure">刪除藏品失敗</string>
+    <string name="delete_collection_success">刪除藏品成功</string>
+    <string name="detail_desc">細節圖</string>
+    <string name="detail_view">請拍攝一張細節圖片</string>
+    <string name="dialog_msg_not_check_phone">手機驗證未通過，確定提交?</string>
+    <string name="dialog_title_commit_info">提交信息</string>
+    <string name="edit_info_hint">請輸入您要充值的金額～</string>
+    <string name="edit_introduce">編輯資料</string>
+    <string name="enquiry">詢價</string>
+    <string name="enter_new_password">請輸入6–20位新密碼</string>
+    <string name="enter_new_password_again">請再輸入一遍新密碼</string>
+    <string name="enter_original_password">請輸入原密碼</string>
+    <string name="et_content_hint">請您填寫藏品尺寸（無尺寸將無法估價）和您想了解的信息，例如：高15cm,重50克，想了解是否翡翠A貨？
+</string>
+    <string name="evaluate_to_expert">評價</string>
+    <string name="evaluate_to_expert_detail">評價詳情</string>
+    <string name="expert">專家</string>
+    <string name="expert_assistant">專家助理：</string>
+    <string name="expert_grade">專家等級：</string>
+    <string name="expert_introduce">專家簡介：</string>
+    <string name="expert_photos">專家相冊：</string>
+    <string name="expert_share_title_prefix">專家分享––</string>
+    <string name="face_to_face_scan_code">當面掃二維碼</string>
+    <string name="failed">失敗</string>
+    <string name="fans_num">粉絲 : %1$s</string>
+    <string name="finish">完成</string>
+    <string name="forget_psw">忘記密碼</string>
+    <string name="get_auth_code">獲取驗證碼</string>
+    <string name="get_checked_phone_state">校驗手機…</string>
+    <string name="get_identify_code">獲取驗證碼</string>
+    <string name="get_pay_info_failed">獲取支付信息失敗..</string>
+    <string name="get_phone_check_state_failed">獲取手機校驗信息失敗,請校驗手機號碼</string>
+    <string name="get_score_by_send_invited_code">請輸入邀請碼</string>
+    <string name="hint">hint</string>
+    <string name="hint_input_phone_number">請輸入您的註冊手機號</string>
+    <string name="home">首頁</string>
+    <string name="icon">icon</string>
+    <string name="identification_close_failure">關閉鑒定失敗</string>
+    <string name="identification_close_success">關閉鑒定成功</string>
+    <string name="identification_open">公開</string>
+    <string name="identification_open_failure">公開鑒定失敗</string>
+    <string name="identification_open_success">公開鑒定成功</string>
+    <string name="identify">鑒定</string>
+    <string name="identify_code">驗證碼</string>
+    <string name="identify_no_tips">"親，你什麽要求都沒有提哦！"</string>
+    <string name="identify_price">鑒定價格</string>
+    <string name="identify_type">鑒定類型</string>
+    <string name="identify_type_expert">專家團</string>
+    <string name="identify_type_normal">普通鑒定</string>
+    <string name="identify_type_order">預約鑒定</string>
+    <string name="identify_type_registion">挂号鉴定</string>
+    <string name="identify_type_registration">掛號鑒定</string>
+    <string name="identify_type_speed">極速鑒定</string>
+    <string name="identify_type_video">視頻鑒定</string>
+    <string name="improve_mobile_phone_number">請完善手機號</string>
+    <string name="indentify_modify">修改</string>
+    <string name="indicator_num">鑒定 : %1$s</string>
+    <string name="info_share_title_prefix">資訊分享––</string>
+    <string name="input_already_register">請輸入已經註冊的手機號</string>
+    <string name="input_identify_code">請輸入驗證碼</string>
+    <string name="input_psw">請輸入6–20位登錄密碼</string>
+    <string name="input_user_number">請輸入您的手機號</string>
+    <string name="input_user_password">請輸入密碼</string>
+    <string name="input_valid_phone_number">請輸入正確的電話號碼</string>
+    <string name="invite_code_head">邀請碼:</string>
+    <string name="invite_code_information">（請讓您的好友在“獲取積分”內輸入此邀請碼）</string>
+    <string name="invite_code_introduce">在"我的積分"內輸入邀請碼</string>
+    <string name="invite_friend">邀請好友</string>
+    <string name="load_user_info_failed">加載用戶信息失敗</string>
+    <string name="loading_failed">加載失敗</string>
+    <string name="loading_success">數據加載成功!</string>
+    <string name="me">我的</string>
+    <string name="micro_blog">微博</string>
+    <string name="modification">修改</string>
+    <string name="modify_nickname">修改昵稱</string>
+    <string name="modify_nickname_fail">修改昵稱失敗</string>
+    <string name="modify_nickname_success">修改昵稱成功</string>
+    <string name="modify_order">修改信息不保存</string>
+    <string name="modify_order_info">修改訂單</string>
+    <string name="modify_password">修改密碼</string>
+    <string name="moments">朋友圈</string>
+    <string name="my_identity">我的鑒定</string>
+    <string name="my_invite_code">我的邀請碼</string>
+    <string name="my_wallet">我的錢包</string>
+    <string name="name_limit">不超過6個漢字或12個字符</string>
+    <string name="national_museum">國家博物館</string>
+    <string name="need_to_pay">還需支付</string>
+    <string name="negative">取消</string>
+    <string name="new_user_psw">新密碼</string>
+    <string name="nick_name_head">昵稱:   </string>
+    <string name="nickname">昵稱</string>
+    <string name="nickname_can_not_be_empty">昵稱不能為空或空格</string>
+    <string name="nickname_length_to_long">昵稱過長</string>
+    <string name="no_comments">No comments</string>
+    <string name="no_evaluate">暫無評價</string>
+    <string name="no_more_data">沒有更多數據了</string>
+    <string name="no_payment">待支付</string>
+    <string name="no_registered_account">登錄/註冊</string>
+    <string name="not_login">您還未登錄</string>
+    <string name="number">手機號</string>
+    <string name="oauth_cancel">"授權取消"</string>
+    <string name="oauth_fail">"授權失敗"</string>
+    <string name="oauth_start">"開始授權"</string>
+    <string name="oauth_success">"授權成功"</string>
+    <string name="obtain_score_method">積分獲得方式</string>
+    <string name="off_the_stocks">已完成</string>
+    <string name="ok">OK</string>
+    <string name="order_collect_state_false">收藏</string>
+    <string name="order_collect_state_true">取消收藏</string>
+    <string name="order_detail">寶貝詳情頁</string>
+    <string name="order_no_save">退出後信息不保存</string>
+    <string name="other_pay">其他支付方式</string>
+    <string name="palace_museum">故宮博物院</string>
+    <string name="password">密    碼</string>
+    <string name="pay_amount">支付金額</string>
+    <string name="pay_cancel">支付取消</string>
+    <string name="pay_failed">支付失敗</string>
+    <string name="pay_method_bfb">百付寶支付"</string>
+    <string name="pay_method_bobao">余額支付</string>
+    <string name="pay_method_wx">微信支付</string>
+    <string name="pay_method_zfb">支付寶支付</string>
+    <string name="pay_order">支付訂單</string>
+    <string name="pay_to">立即支付</string>
+    <string name="pay_waiting">支付結果確認中</string>
+    <string name="payment">支付</string>
+    <string name="phone_can_not_be_empty">手機號不能為空</string>
+    <string name="phone_number">手機號</string>
+    <string name="phone_number_head">手  機  號</string>
+    <string name="photo_gallery">相冊</string>
+    <string name="please_check_phone_number">手機未校驗,請校驗手機號碼</string>
+    <string name="please_choose_identify_type">請選擇藏品分類</string>
+    <string name="please_input_invite_code">請輸入邀請碼</string>
+    <string name="please_pay">請支付</string>
+    <string name="pop_item_clear_cache">清除緩存</string>
+    <string name="pop_item_logout">退出賬號</string>
+    <string name="pop_item_update">軟件更新</string>
+    <string name="positive">確定</string>
+    <string name="press_back_again">再按一次返回鍵退出</string>
+    <string name="problem_cancle">藏品圖片模糊撤銷處理</string>
+    <string name="problem_cancle_answer">由於在線鑒定是通過圖片鑒定，請您按照要求上傳清晰圖片。
+如圖片模糊造成無法鑒定，我們將會做撤銷鑒定處理。
+充值支付：退款處理
+積分支付：積分不退</string>
+    <string name="problem_long_time_low_value">为什么藏品年代久远但价值不高？</string>
+    <string name="problem_long_time_low_value_answer">藏品的价值主要由存世量、艺术价值、品相、市场行情等因
+素决定的，年代不是决定藏品价值的主导。</string>
+    <string name="problem_outtime">鑒定超時處理</string>
+    <string name="problem_outtime_answer">
+        在9:00-21:00時間範圍內只限充值支付，積分支付超時不退積分</string>
+    <string name="problem_rules">藏品鑒定規則</string>
+    <string name="problem_rules_answer">每次鑒定只能上傳一件藏品的不同角度圖片，請勿一次上傳
+    多件藏品圖片。多件藏品圖片我們默認鑒定第一件，如上傳
+    多圖混亂造成無法鑒定鑒定費用不退還。</string>
+    <string name="problem_time">鑒定專家服務時間</string>
+    <string name="problem_time_answer">專家服務時間：9:00-21:00(不排除部分專家夜間在線)
+        如您在21:00-次日9:00之間提交支付鑒定，我們將默認9:00開始鑒定計時。</string>
+    <string name="ptr_last_updated">Updated: %1$s</string>
+    <string name="ptr_loading">刷新……</string>
+    <string name="ptr_pull_to_refresh">下拉刷新</string>
+    <string name="ptr_release_to_refresh">釋放刷新</string>
+    <string name="qq">QQ</string>
+    <string name="qq_login">QQ登錄</string>
+    <string name="qq_zone">QQ空間</string>
+    <string name="query_price">您想說什麽？請在此輸入……</string>
+    <string name="quickly_to_choose">不想輸入？可以快速選擇哦!</string>
+    <string name="quit_accounts">確定退出賬號？</string>
+    <string name="quite_nice">Quite nice~</string>
+    <string name="recharge">充值</string>
+    <string name="recharge_tip">每充值10元送5元積分</string>
+    <string name="register">註冊</string>
+    <string name="remove_identification_failure">刪除鑒定失敗…</string>
+    <string name="retry">重試</string>
+    <string name="scan_code_download_introduce">註冊就送50積分</string>
+    <string name="scan_code_download_title">掃一掃即可下載</string>
+    <string name="scan_download">邀請好友賺積分</string>
+    <string name="score_every_person">(50積分/人)</string>
+    <string name="score_introduce">積分說明</string>
+    <string name="score_record">積分記錄</string>
+    <string name="score_regular">積分使用規則</string>
+    <string name="score_to_expert">評分:</string>
+    <string name="score_to_identify_expert">對鑒定專家評分：</string>
+    <string name="send">發送</string>
+    <string name="send_invited_code_failed">發送邀請碼獲取積分失敗</string>
+    <string name="set">設置</string>
+    <string name="set_head_image">選擇照片</string>
+    <string name="share_fail">"分享失敗"</string>
+    <string name="share_success">"分享成功"</string>
+    <string name="share_to">分享到</string>
+    <string name="share_to_recommend">給你推薦個好東西-鑒寶神器，手機鑒寶！點擊下載：</string>
+    <string name="sina_login">新浪登陸</string>
+    <string name="skill">擅長領域：</string>
+    <string name="socket_exception">服務器異常</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stupid_app">Stupid app</string>
+    <string name="submit">提交</string>
+    <string name="submit_clear_cache">確定要清除手機鑒寶本地緩存數據？</string>
+    <string name="submit_failed">上傳失敗</string>
+    <string name="submit_identify">提交鉴定</string>
+    <string name="submit_loading">上傳中···</string>
+    <string name="submit_max_photos_num_tip">最多上傳8張圖片.</string>
+    <string name="submit_nickname_improve">昵稱最長為6位漢字或12個字符，可由中英文，數字組成。</string>
+    <string name="submit_order">提交訂單</string>
+    <string name="submit_quit">確定退出嗎？</string>
+    <string name="submit_success">上傳成功</string>
+    <string name="take_picture">拍照</string>
+    <string name="take_picture_identify">拍照鑒定</string>
+    <string name="third_login">使用其他賬號登錄</string>
+    <string name="time_out">響應超時</string>
+    <string name="tip_time_style">鑒定計時方式</string>
+    <string name="tip_time_style_content">每日鑒定時間為9:00~21:00，故計時時間也以此為準。例：下午19點支付的普通鑒定，則超時時間為第三日下午19點。/下午19點支付的極速鑒定，超時時間為20點。
+    </string>
+    <string name="tip_type_experts">三、专家团鉴定</string>
+    <string name="tip_type_experts_content">
+        鉴定形式：图片鉴定\r\n
+        鉴定专家：线上专家3位\r\n
+        客服人员：在线客服\r\n
+        鉴定时间：支付后120小时内鉴定完毕\r\n
+    </string>
+    <string name="tip_type_jisu">二、极速鉴定</string>
+    <string name="tip_type_jisu_content">
+        鉴定形式：图片鉴定\r\n
+        鉴定专家：线上专家1位\r\n
+        客服人员：在线客服\r\n
+        鉴定时间：支付后60分钟内鉴定完毕\r\n
+    </string>
+    <string name="tip_type_normal">一、普通鉴定</string>
+    <string name="tip_type_normal_content">
+        鉴定形式：图片鉴定\n
+        鉴定专家：线上专家1位\n
+        客服人员：在线客服\n
+        鉴定时间：支付后24小时内鉴定完毕\n</string>
+    <string name="tip_type_order">五、預約鑒定</string>
+    <string name="tip_type_order_content">
+        鑒定形式：當面鑒定\r\n
+        鑒定專家：權威機構專家 可指定\r\n
+        客服人員：專家助理壹對壹\r\n
+        鑒定時間：專家當面反饋鑒定結果\r\n
+    </string>
+    <string name="tip_type_video">四、掛號鑒定</string>
+    <string name="tip_type_video_content">
+        鑒定形式：圖片鑒定\r\n
+        鑒定專家：線上專家1位\r\n
+        客服人員：在線客服\r\n
+        鑒定時間：支付後24小時內鑒定完畢\r\n
+    </string>
+    <string name="tip_wrong_number">手機號碼格式有誤,請校驗手機號碼</string>
+    <string name="tit_feed">Feedback</string>
+    <string name="title">title</string>
+    <string name="to_identity">待鑒定</string>
+    <string name="too_large">上傳文件過大</string>
+    <string name="tv_download">掃一掃即可下載</string>
+    <string name="unit_second">秒</string>
+    <string name="update_dialog_title">版本更新</string>
+    <string name="update_info_failed">獲取更新信息失敗</string>
+    <string name="update_latest">已經是最新版本</string>
+    <string name="update_loading_dialog_title">正在檢測更新</string>
+    <string name="upload_head_image_failed">提交用戶頭像失敗</string>
+    <string name="use_integral">本次使用</string>
+    <string name="use_score">是否使用積分</string>
+    <string name="user_account">手機號</string>
+    <string name="user_actual_pay">实付款：</string>
+    <string name="user_balance">賬戶余額</string>
+    <string name="user_banlance">賬戶余額</string>
+    <string name="user_consume">消費記錄</string>
+    <string name="user_feedback">意見反饋</string>
+    <string name="user_identify_tip">鑒定須知</string>
+    <string name="user_login">登錄</string>
+    <string name="user_not_login">您還未登錄</string>
+    <string name="user_pay_quit">取消支付訂單</string>
+    <string name="user_points">我的積分</string>
+    <string name="user_problems">常見問題</string>
+    <string name="user_recharge">我要充值</string>
+    <string name="user_recharge_failed_other">如果不屬於以上問題，請您：</string>
+    <string name="user_recharge_failed_tip">
+        1.是否網絡問題\r\n\n
+        2.是否開通微信支付或者百付寶支付\r\n\n
+        3.所使用充值方式的支付密碼是否輸入錯誤\r\n
+    </string>
+    <string name="user_recharge_fialed_title">如果充值失敗，請您核實以下問題：</string>
+    <string name="user_recharge_record">充值記錄</string>
+    <string name="user_register">註冊</string>
+    <string name="user_score">我的積分</string>
+    <string name="we_chat">微信</string>
+    <string name="write_to_evaluate">親，寫點兒什麽吧？</string>
+    <string name="write_to_evaluate_more">最多可以輸入80個字</string>
+    <string name="wrong_number_or_code">手機號有誤或者驗證碼為空</string>
+    <string name="wx_login">微信登錄</string>
+    <string name="wx_recharge">微信充值</string>
+    <string name="xlistview_footer_hint_normal">上拉查看更多</string>
+    <string name="xlistview_footer_hint_ready">松開載入更多</string>
+    <string name="xlistview_header_hint_loading">正在加載…</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松開刷新數據</string>
+    <string name="xlistview_header_last_time">上次更新時間：</string>
+    <string name="zfb_recharge">支付寶充值</string>
+</resources>

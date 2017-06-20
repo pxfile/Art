@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/anim/fadein.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/anim/fadein.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/anim/fadein.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/anim/fadein.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/anim/fadeout.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/anim/fadeout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/anim/in_from_left.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/anim/in_from_left.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/anim/out_from_right.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/anim/out_from_right.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/anim/abc_fade_out.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/anim/abc_fade_out.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/anim/push_bottom_in.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/anim/push_bottom_in.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/anim/out_from_right.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/anim/out_from_right.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/anim/fadeout.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/anim/fadeout.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/anim/push_bottom_in.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/anim/push_bottom_in.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/anim/abc_fade_in.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/anim/push_bottom_out.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/anim/push_bottom_out.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/anim/abc_fade_in.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/anim/in_from_left.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/src/main/res/anim/in_from_left.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/anim/push_bottom_out.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/src/main/res/anim/push_bottom_out.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/res/merged/H5/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/DevelopProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/res/merged/H5/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/pxfile/Downloads/MyProject/Project/WorkProject/Art/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/anim/abc_slide_out_top.xml"
+    }
+]

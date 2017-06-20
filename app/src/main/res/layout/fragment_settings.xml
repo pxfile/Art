@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/gray2"
+                android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/gray2"
+        android:orientation="vertical">
+
+        <include
+            android:id="@+id/layout_title"
+            layout="@layout/layout_title"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/divide"
+            android:layout_marginTop="10dp"
+            android:background="@color/gray9"/>
+
+        <RelativeLayout
+            android:id="@+id/rl_contact_us"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/white"
+            android:padding="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dp"
+                android:gravity="center"
+                android:text="@string/contact_us"
+                android:textColor="@color/gray10"
+                android:textSize="@dimen/ts_normal_small"/>
+
+            <TextView
+                android:id="@+id/tv_contact_us"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:drawablePadding="10dp"
+                android:drawableRight="@drawable/icon_step_next"
+                android:gravity="center"
+                android:textColor="@color/gray0"
+                android:textSize="@dimen/ts_normal_small"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_user_update"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/white"
+            android:padding="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dp"
+                android:gravity="center"
+                android:text="@string/pop_item_update"
+                android:textColor="@color/gray10"
+                android:textSize="@dimen/ts_normal_small"/>
+
+            <TextView
+                android:id="@+id/tv_user_update"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:drawablePadding="10dp"
+                android:drawableRight="@drawable/icon_step_next"
+                android:gravity="center"
+                android:textColor="@color/gray0"
+                android:textSize="@dimen/ts_normal_small"/>
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/divide"
+            android:background="@color/gray1"/>
+
+        <RelativeLayout
+            android:id="@+id/rl_user_clear"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/white"
+            android:padding="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dp"
+                android:text="@string/pop_item_clear_cache"
+                android:textColor="@color/gray10"
+                android:textSize="@dimen/ts_normal_small"/>
+
+            <TextView
+                android:id="@+id/tv_user_clear_cache"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:drawablePadding="10dp"
+                android:drawableRight="@drawable/icon_step_next"
+                android:gravity="center"
+                android:textColor="@color/gray0"
+                android:textSize="@dimen/ts_normal_small"/>
+
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/divide"
+            android:background="@color/gray1"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_user_quit_account"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center"
+        android:layout_marginBottom="50dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/bg_button_submit"
+        android:gravity="center"
+        android:text="@string/pop_item_logout"
+        android:textColor="@color/white"
+        android:textSize="@dimen/ts_normal_second"/>
+</RelativeLayout>

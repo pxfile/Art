@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/layout_title"
+        layout="@layout/layout_title" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:background="@color/white">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/recharge"
+            android:textSize="@dimen/ts_normal_second"
+            android:layout_marginLeft="10dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/transparent_red_60"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:textSize="@dimen/ts_normal_second"
+            android:textStyle="bold"
+            android:layout_marginRight="10dp"
+            android:id="@+id/tv_recharge_price"/>
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/divide"
+        android:background="@color/gray1"/>
+
+    <RelativeLayout
+        android:id="@+id/rl_recharge_wx"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_alignParentLeft="true"
+            android:drawableLeft="@drawable/icon_pay_wx"
+            android:text="@string/wx_recharge"
+            android:drawablePadding="10dp"
+            android:textSize="@dimen/ts_normal_second" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:drawablePadding="10dp"
+            android:layout_marginRight="10dp"
+            android:drawableRight="@drawable/icon_step_next" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:gravity="center_vertical"
+        android:text="@string/other_pay"
+        android:paddingLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:textSize="@dimen/ts_normal_third"
+        android:background="@color/white"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/divide"
+        android:background="@color/gray1"/>
+    <RelativeLayout
+        android:id="@+id/rl_recharge_zfb"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_alignParentLeft="true"
+            android:drawableLeft="@drawable/icon_pay_zfb"
+            android:text="@string/zfb_recharge"
+            android:drawablePadding="10dp"
+            android:textSize="@dimen/ts_normal_second" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:drawablePadding="10dp"
+            android:layout_marginRight="10dp"
+            android:drawableRight="@drawable/icon_step_next" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/divide"
+        android:background="@color/gray1"/>
+    <RelativeLayout
+        android:id="@+id/rl_recharge_bfb"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_alignParentLeft="true"
+            android:drawableLeft="@drawable/icon_pay_bfb"
+            android:text="@string/bfb_recharge"
+            android:drawablePadding="10dp"
+            android:textSize="@dimen/ts_normal_second" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:drawablePadding="10dp"
+            android:layout_marginRight="10dp"
+            android:drawableRight="@drawable/icon_step_next" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/divide"
+        android:background="@color/gray1"/>
+
+</LinearLayout>

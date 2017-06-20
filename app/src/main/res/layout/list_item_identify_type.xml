@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/rl_container"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@color/white"
+    android:paddingLeft="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/img_type"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:scaleType="fitCenter"
+                android:src="@drawable/icon_fast"/>
+
+            <TextView
+                android:id="@+id/tv_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@+id/img_type"
+                android:gravity="center"
+                android:textColor="@color/gray10"
+                android:textSize="@dimen/ts_normal_second"/>
+
+            <TextView
+                android:id="@+id/tv_desc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/tv_name"
+                android:layout_marginLeft="25dp"
+                android:layout_toRightOf="@+id/tv_name"
+                android:gravity="center"
+                android:textColor="@color/gray0"
+                android:textSize="@dimen/ts_normal_small"/>
+
+            <TextView
+                android:id="@+id/tv_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/tv_name"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="15dp"
+                android:gravity="center"
+                android:textColor="@color/gray10"
+                android:textSize="@dimen/ts_normal_second"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+    <View
+        android:id="@+id/below_clear_view"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/divide"
+        android:layout_alignParentBottom="true"
+        android:background="@color/gray9"/>
+</RelativeLayout>

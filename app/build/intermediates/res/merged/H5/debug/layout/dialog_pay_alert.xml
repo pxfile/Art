@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="325dp"
+              android:layout_height="wrap_content"
+              android:background="@android:color/transparent">
+
+    <LinearLayout
+        android:id="@+id/umeng_update_frame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_content_corners"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:gravity="center"
+            android:text="@string/about_us"
+            android:textColor="@color/dark1"
+            android:textSize="@dimen/ts_normal_big"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="38dp"
+            android:layout_marginRight="37dp"
+            android:layout_marginTop="15dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:gravity="center|left"
+                android:text="@string/about_us_msg"
+                android:textColor="@color/gray19"
+                android:textSize="@dimen/ts_normal"/>
+        </LinearLayout>
+
+        <View
+            style="@style/line_fill_gray9_style"
+            android:layout_marginLeft="38dp"
+            android:layout_marginRight="37dp"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="25dp"
+            android:layout_marginTop="15dp">
+
+            <TextView
+                android:id="@+id/tv_cancel"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:layout_gravity="left"
+                android:layout_marginLeft="40dp"
+                android:background="@drawable/bg_edit_text"
+                android:gravity="center"
+                android:text="@string/negative"
+                android:textColor="@color/dark1"
+                android:textSize="@dimen/ts_normal_big"/>
+
+            <TextView
+                android:id="@+id/tv_ok"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="40dp"
+                android:background="@drawable/bg_button_pay_success_btn"
+                android:gravity="center"
+                android:text="@string/positive"
+                android:textColor="@color/dark1"
+                android:textSize="@dimen/ts_normal_big"/>
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

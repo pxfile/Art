@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:fresco="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_item_recommend_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/tv_item_recommend_fid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/tv_item_recommend_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/tv_item_recommend_addtime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/tv_item_recommend_comment_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:id="@+id/sdv_item_recommend_comment_img"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:background="@color/gray8"
+        fresco:placeholderImage="@drawable/icon_default"
+        fresco:viewAspectRatio="1.5"/>
+
+    <Button
+        android:id="@+id/bt_delete_identify"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="删除"/>
+</LinearLayout>

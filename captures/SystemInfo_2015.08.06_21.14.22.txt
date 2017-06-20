@@ -1,0 +1,89 @@
+Applications Graphics Acceleration Info:
+Uptime: 522251152 Realtime: 885423312
+
+** Graphics info for pid 13143 [com.bobaoo.xiaobao] **
+
+Recent DisplayList operations
+          DrawBitmap
+          RestoreToCount
+          Save
+          ClipRect
+          Translate
+          RestoreToCount
+      DrawDisplayList
+        DrawDisplayList
+          Save
+          Save
+          DrawFunctor
+          RestoreToCount
+      DrawDisplayList
+        DrawRect
+      DrawDisplayList
+        DrawRect
+        DrawDisplayList
+          DrawDisplayList
+            DrawBitmap
+        DrawDisplayList
+          DrawPath
+          DrawPath
+          Save
+          ClipRect
+          Translate
+          DrawText
+          RestoreToCount
+        DrawDisplayList
+          DrawRoundRect
+          Save
+          Translate
+          DrawBitmap
+          RestoreToCount
+    DrawPatch
+  RestoreToCount
+DrawRect
+DrawRect
+DrawRect
+DrawBitmap
+DrawBitmap
+DrawBitmap
+DrawText
+DrawFunctor
+DrawRect
+DrawRoundRect
+DrawPath
+DrawPath
+DrawText
+DrawBitmap
+DrawPatch
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache          7431444 / 25165824
+  LayerCache                  0 / 16777216
+  RenderBufferCache           0 /  2097152
+  GradientCache               0 /   524288
+  PathCache              117448 / 10485760
+  TextDropShadowCache         0 /  2097152
+  FontRenderer 0         524288 /   524288
+Other:
+  FboCache                    0 /       16
+  PatchCache                  2 /      512
+Total memory usage:
+  8073180 bytes, 7.70 MB
+
+Profile data in ms:
+
+	com.bobaoo.xiaobao/com.bobaoo.xiaobao.ui.activity.MainActivity/android.view.ViewRootImpl@42cbd188
+	com.bobaoo.xiaobao/com.bobaoo.xiaobao.ui.activity.InfoDetailActivity/android.view.ViewRootImpl@42f370f0
+View hierarchy:
+
+  com.bobaoo.xiaobao/com.bobaoo.xiaobao.ui.activity.MainActivity/android.view.ViewRootImpl@42cbd188
+  53 views, 45.47 kB of display lists, 26 frames rendered
+
+  com.bobaoo.xiaobao/com.bobaoo.xiaobao.ui.activity.InfoDetailActivity/android.view.ViewRootImpl@42f370f0
+  19 views, 10.06 kB of display lists, 21 frames rendered
+
+
+Total ViewRootImpl: 2
+Total Views:        72
+Total DisplayList:  55.53 kB
+

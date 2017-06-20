@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\SocialSDK_QQZone_1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\SocialSDK_QQZone_1-f0a8a1d4596b933e2d2047ab97413019033bd48d.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\classes-01d1837c73bfb2aeb5eb0109e4e9ac8f1aae268a.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\org.apache.http.legacy-0d19baedf0892b40045db496d4ff77d265042b8b.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\umeng-update-v2.7.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d96f0655a780b3eeb5f1462c8dde4259c746cb26">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\umeng-update-v2.7.0-24b6bc31bca2b74f6ccf74a484ce016778f15ebd.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\classes-279bf9513f08e3812499ca75450bf7d8f41b5c03.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\SocialSDK_QQZone_2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4a69b33758dcba3ef519cbd4b6c8af5f41603c4f">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\SocialSDK_QQZone_2-74b4026a97667b36b8199c870e5a3b7545560299.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.5.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="28df9804d10dcce9235dde6dc95e5ed9eb21f0f0">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\classes-b32a27ec151d25df17868cd08a99473dbf358b36.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\alipaySdk-20160223.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ff0f8e55a08ddd28e1fa8e94e2d8881264a5f345">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\alipaySdk-20160223-5ba0e7232fbd0ff6272be3df3002fde2b10d47cb.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\org.apache.http.legacy-0d19baedf0892b40045db496d4ff77d265042b8b.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\me.imid.swipebacklayout.lib\library\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6d0958dbac8e7be76690b8e85d91698dfadbd81e">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\classes-a85e63f68af0205434ed0fddf7fdf34fe3983b32.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\com.github.chenupt.android\springindicator\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b7c43c8ddfc4ae2091a33f2882927bb4e3e2fee2">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\classes-158c376952e2f7172aa2aa038e4777b1059d6cbe.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\Art\ToggleButtonLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="62380b41efc0bbf45b55a3f4fbc0c9781140bdb8">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\classes-5686602d6e730f4fb87f787198c67ae90e5b5661.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\httpmime-4.1.3-04dc41327bcd4467fc15acf84ae473c683994474.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d57cae1dcd1eeeec2cd8197fcdd7a0316216481e">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\SocialSDK_QQZone_3-786e26fe510757bd22c7a555644a328d8cec3b1d.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\Art\PhotoViewLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cbb05525d15bb1b9201a099269b382d975f9c531">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\classes-b27d94cc23ccc880eac4dde6cfcd1322627a7cba.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.5.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cd4a2b0df827bebc39c620c3df0379655adabd8c">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\classes-00e8d46e7c1bae11d4b2f7649abedb346167c55e.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.5.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d2fc5593ddd0c2ae29f4623e13e452c2d88bcad0">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\classes-d73df160c3536d27d0b95093ae0e25e1ef666018.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\xUtils-2.6.14-775acd319cd8fc8d1065debe477c33fe0168fe75.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\Art\SwipyRefreshLayoutLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8789ff46ebbf6164e97dca427d811b3c6313b21">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\classes-d0cf943b2410c7bd85375e021b8bebae6018cc31.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\SocialSDK_Sina.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fd07c18d274be387922d55964e04cb418133c80f">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\SocialSDK_Sina-2710aa67d22278321d3f933d42e71e483aa123fe.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\support-annotations-23.1.0-24c46cbde714be0842274322039416f341dd73a0.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\xUtils-2.6.14-775acd319cd8fc8d1065debe477c33fe0168fe75.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ec0faf74d92d4882d9be51b1b9ebb5ebc83fbea7">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\SocialSDK_WeiXin_2-409f66a5e8e40b583e97de4571cb3f8b53f5d3fb.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.5.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="28df9804d10dcce9235dde6dc95e5ed9eb21f0f0">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\classes-b32a27ec151d25df17868cd08a99473dbf358b36.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\me.imid.swipebacklayout.lib\library\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6d0958dbac8e7be76690b8e85d91698dfadbd81e">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\classes-a85e63f68af0205434ed0fddf7fdf34fe3983b32.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\SocialSDK_tencentWB_3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8180c00c6056e1a8e10159f7bf50eac1f4a85449">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\SocialSDK_tencentWB_3-997ef9e8a75bc16c4666cb484ced95f0f4c9306d.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\SocialSDK_tencentWB_3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8180c00c6056e1a8e10159f7bf50eac1f4a85449">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\SocialSDK_tencentWB_3-997ef9e8a75bc16c4666cb484ced95f0f4c9306d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fang\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\library-2.4.0-493a9c9025977c2ab319ec014ff8e1d433d4063a.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\com.github.chenupt.android\springindicator\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b7c43c8ddfc4ae2091a33f2882927bb4e3e2fee2">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\classes-158c376952e2f7172aa2aa038e4777b1059d6cbe.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d57cae1dcd1eeeec2cd8197fcdd7a0316216481e">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\SocialSDK_QQZone_3-786e26fe510757bd22c7a555644a328d8cec3b1d.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\classes-bcbd806bec078c89151fa9fa32f23bfca7e55102.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec0faf74d92d4882d9be51b1b9ebb5ebc83fbea7">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\SocialSDK_WeiXin_2-409f66a5e8e40b583e97de4571cb3f8b53f5d3fb.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\Art\ToggleButtonLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="359b8f725420a510d27a6faae45e7b7194170060">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\classes-5686602d6e730f4fb87f787198c67ae90e5b5661.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\SocialSDK_Sina.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fd07c18d274be387922d55964e04cb418133c80f">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\SocialSDK_Sina-2710aa67d22278321d3f933d42e71e483aa123fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fang\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\gson-2.4-d614eb7071c32b4612799f0c2cc48b213651b34a.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\classes-bcbd806bec078c89151fa9fa32f23bfca7e55102.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\SocialSDK_tencentWB_2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6f744074067eb201171c9c8ff1ca45ed821a76a8">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\SocialSDK_tencentWB_2-47123856fca3eb1aea1e2be73b6deb0ddb202109.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.5.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cd4a2b0df827bebc39c620c3df0379655adabd8c">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\classes-00e8d46e7c1bae11d4b2f7649abedb346167c55e.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\com.lsjwzh\materialloadingprogressbar\0.5.5-RELEASE\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6b0ae6dbf67d239473f81c6af75b514721571bac">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\classes-8bb5a9e3ca6e1da37cfab138280ed20ee8b91984.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\SocialSDK_QQZone_2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4a69b33758dcba3ef519cbd4b6c8af5f41603c4f">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\SocialSDK_QQZone_2-74b4026a97667b36b8199c870e5a3b7545560299.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.5.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c48f4fa9decc24778e885a147169988d4358b8e">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\classes-002323849734aada0aa9782ec77ddd1c48c2da31.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fang\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\bolts-android-1.1.4-bf0bba110b35d510d970d11c03c6a6f58ae4c1d9.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\internal_impl-23.1.0-b942c3fb448b7be12eb98a9668e9ef629a943e61.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\SocialSDK_WeiXin_1-7d7a65cd720424ded92a8be4ce2e575c75750990.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\jg_filter_sdk_1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ebfc3cde0309ff27e9568757784eefefc71407a2">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\jg_filter_sdk_1.1-f40fad41772b82ba1f7523410df60e4cb8cd1a47.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\jg_filter_sdk_1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ebfc3cde0309ff27e9568757784eefefc71407a2">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\jg_filter_sdk_1.1-f40fad41772b82ba1f7523410df60e4cb8cd1a47.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.5.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d2fc5593ddd0c2ae29f4623e13e452c2d88bcad0">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\classes-d73df160c3536d27d0b95093ae0e25e1ef666018.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\support-annotations-23.1.0-24c46cbde714be0842274322039416f341dd73a0.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\SocialSDK_tencentWB_1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="328c5351cae13f2ab29450d22b6c02d0ac88a855">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\SocialSDK_tencentWB_1-b2261f98abada913ac4713847730aee4142f0f1c.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\classes-279bf9513f08e3812499ca75450bf7d8f41b5c03.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\SocialSDK_QQZone_1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\SocialSDK_QQZone_1-f0a8a1d4596b933e2d2047ab97413019033bd48d.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\httpmime-4.1.3-04dc41327bcd4467fc15acf84ae473c683994474.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\Art\PhotoViewLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="88ff202d31d7b56a951602f713cb5a8eb2f4f0c5">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\classes-b27d94cc23ccc880eac4dde6cfcd1322627a7cba.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\SocialSDK_tencentWB_1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="328c5351cae13f2ab29450d22b6c02d0ac88a855">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\SocialSDK_tencentWB_1-b2261f98abada913ac4713847730aee4142f0f1c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fang\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\bolts-android-1.1.4-bf0bba110b35d510d970d11c03c6a6f58ae4c1d9.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\SocialSDK_tencentWB_2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6f744074067eb201171c9c8ff1ca45ed821a76a8">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\SocialSDK_tencentWB_2-47123856fca3eb1aea1e2be73b6deb0ddb202109.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\internal_impl-23.1.0-b942c3fb448b7be12eb98a9668e9ef629a943e61.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fang\.gradle\caches\modules-2\files-2.1\com.umeng.analytics\analytics\5.6.4\76fed6d2233b958f0c1d589aa366785e0ab5c8f1\analytics-5.6.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="76fed6d2233b958f0c1d589aa366785e0ab5c8f1">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\analytics-5.6.4-faef26a89ac168c3efc4d34895d5bb77a75ef36a.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\Xg_sdk_v2.38_20150616_1057.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b7d6cf9e40b44971cb043f30979ad6869295ae4c">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\Xg_sdk_v2.38_20150616_1057-8325e60c7e46144446914c512b6299a11d62b423.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fang\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\library-2.4.0-493a9c9025977c2ab319ec014ff8e1d433d4063a.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\com.lsjwzh\materialloadingprogressbar\0.5.5-RELEASE\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6b0ae6dbf67d239473f81c6af75b514721571bac">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\classes-8bb5a9e3ca6e1da37cfab138280ed20ee8b91984.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\alipaySdk-20160223.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ff0f8e55a08ddd28e1fa8e94e2d8881264a5f345">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\alipaySdk-20160223-5ba0e7232fbd0ff6272be3df3002fde2b10d47cb.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\umeng_social_sdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="857c78387c5b911f5dc9b20b307f0edfd16befed">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\umeng_social_sdk-e357f8da4ea86a70f7e24c888815808e6c2b2164.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fang\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\gson-2.4-d614eb7071c32b4612799f0c2cc48b213651b34a.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\wup-1.0.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a0845068801a0b9a3a144b7cf57cb650b3d467e5">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\wup-1.0.0-SNAPSHOT-516b57b0c0ac0507d710b5688eb82dea290acb77.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\Art\SwipyRefreshLayoutLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ac52d924529619e5d9c197ed1114e4446ebaee90">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\classes-d0cf943b2410c7bd85375e021b8bebae6018cc31.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\Xg_sdk_v2.38_20150616_1057.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b7d6cf9e40b44971cb043f30979ad6869295ae4c">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\Xg_sdk_v2.38_20150616_1057-8325e60c7e46144446914c512b6299a11d62b423.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\mid-sdk-2.20.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0822bf00661a83ba2fab32214c70cc50a244a0a3">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\mid-sdk-2.20-2b4a85205f25366c429cb3e36d8c35ccb68d2d9d.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\wup-1.0.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a0845068801a0b9a3a144b7cf57cb650b3d467e5">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\wup-1.0.0-SNAPSHOT-516b57b0c0ac0507d710b5688eb82dea290acb77.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\umeng_social_sdk.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="857c78387c5b911f5dc9b20b307f0edfd16befed">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\umeng_social_sdk-e357f8da4ea86a70f7e24c888815808e6c2b2164.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.5.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2c48f4fa9decc24778e885a147169988d4358b8e">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\classes-002323849734aada0aa9782ec77ddd1c48c2da31.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\mid-sdk-2.20.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0822bf00661a83ba2fab32214c70cc50a244a0a3">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\mid-sdk-2.20-2b4a85205f25366c429cb3e36d8c35ccb68d2d9d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fang\.gradle\caches\modules-2\files-2.1\com.umeng.analytics\analytics\5.6.4\76fed6d2233b958f0c1d589aa366785e0ab5c8f1\analytics-5.6.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="76fed6d2233b958f0c1d589aa366785e0ab5c8f1">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\analytics-5.6.4-faef26a89ac168c3efc4d34895d5bb77a75ef36a.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\SocialSDK_WeiXin_1-7d7a65cd720424ded92a8be4ce2e575c75750990.jar" />
+    </item>
+    <item
+        jar="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="E:\StudioWorkSpace\BoBaoProject\Art\app\build\intermediates\pre-dexed\H5\debug\classes-01d1837c73bfb2aeb5eb0109e4e9ac8f1aae268a.jar" />
+    </item>
+
+</items>
